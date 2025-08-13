@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello! I am Minhajul Islam Fuad.
+#### Currently pursuing Computer Science at Bangladesh University of Engineering and Technology (BUET).
 
-<!--
-**MinhazFuad28/MinhazFuad28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">&nbsp;<img align="center" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api?username=MinhazFuad28&show_icons=true&locale=en&count_private=true&theme=github_dark&hide_border=true" alt="MinhazFuad28" /></p>
 
-Here are some ideas to get you started:
+<p align="center">
+    <img align="center" height="200px" width="450px" 
+        src="https://streak-stats.demolab.com/?user=MinhazFuad28&theme=github_dark&hide_border=true" 
+        alt="MinhazFuad28" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!---<p align="center"><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinhazFuad28&langs_count=8&count_private=true&layout=compact&theme=github_dark&hide_border=true&hide=css,scss,html" alt="MinhazFuad28" /></p>-->
+<p align="center">
+<a href="https://github.com/MinhazFuad28">
+<!-- <img alt="MinhazFuad28's Top Language Stats" height="210px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhazFuad28&langs_count=8&count_private=true&layout=compact&theme=github_dark&hide_border=true&hide=css,scss,html" /> </a> -->
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MinhazFuad28&label=Profile%20views&color=0e75b6&style=flat&icon=8&pretty=true" alt="MinhazFuad28" /> </p>
