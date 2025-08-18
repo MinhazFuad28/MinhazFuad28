@@ -1,5 +1,4 @@
 ## Hello! I am Minhajul Islam Fuad.
-#### Currently pursuing Computer Science at Bangladesh University of Engineering and Technology (BUET).
 
 <p align="center">&nbsp;<img align="center" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api?username=MinhazFuad28&show_icons=true&locale=en&count_private=true&theme=github_dark&hide_border=true" alt="MinhazFuad28" /></p>
 
